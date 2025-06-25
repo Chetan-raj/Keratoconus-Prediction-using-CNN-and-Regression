@@ -1,1 +1,10 @@
-This project was developed as part of our undergraduate thesis. It is a web application designed to assist medical practitioners in diagnosing Keratoconus, a non-inflammatory eye disorder.
+1. # Activate pytorch environment
+   >>conda activate pytorch
+2. # change directory to project folder
+   >>cd C:\Users\CHETAN\Desktop\ktc_model\Front
+3. # Activate flask environment
+   >>.venv\Scripts\activate
+4. # Open VS code
+   >>. code
+5. # Run the application
+   >>python app.py 
