@@ -1,1 +1,1 @@
-This project was developed as part of our undergraduate thesis. It is a web application designed to assist medical practitioners in diagnosing Keratoconus, a non-inflammatory eye disorder. The frontend is integrated using Python Flask.
+This project was developed as part of our undergraduate thesis. It is a web application designed to assist medical practitioners in diagnosing Keratoconus, a non-inflammatory eye disorder.
